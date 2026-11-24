@@ -1,0 +1,17 @@
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+node_modules/
+_site/
+__pycache__/
+*.disk
+*.img
+*.iso
+*.rom
+*.bin
+*backup*.json
+*.w95disk
+*.w95backup
+libv86.js
+v86.wasm
